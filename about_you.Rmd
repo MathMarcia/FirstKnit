@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Marcia Sanchez"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer  
-I went to Lincoln High school in East LA,and graduated. English class was hard because it is my second language, but I am mastering it. Math has always being hard for me I dont feel confident about it. I love psychology because of the study of the brain. Also the professor made psychology so interesting. 
+I went to Lincoln High school in East LA,and graduated. English class was hard because it is my second language, but I am mastering it. Math has always being hard for me I don't feel confident about it. I love psychology because it focuses on the study of the brain. Also the professor made psychology so interesting. 
   
 
      
@@ -46,7 +46,7 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ### my answer     
   
-   
+   My goal is to become a Kindergarten teacher for deaf children. I think psychology will be very beneficial. I will be transferring to CSUN after fall 2023.
  
 
 
@@ -59,7 +59,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
   
    
   
-
+Yes, I had the privilege to go to Italy and Rome in 2017. and last Spring break I had the privilege to go to France with my family. I have not being in the military nor any of my family members. 
 
 
 
@@ -69,11 +69,23 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+  I am taking statistics because I
+  need 2 math classes to transfer. I was told statistics was very interesting. I will work hard for an A but a C will do to pass the class. 
    
  
 
 
+git config --global user.name "Marcia Sanchez"
+git config --global user.email "Msanchez142@AVC.EDU"
+git config --global http.sslverify "false"  
+git config --global core.autocrlf true
+git config --global credential.helper 'cache --timeout 3600'
+
+
+
+
+
+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
 
 
 
